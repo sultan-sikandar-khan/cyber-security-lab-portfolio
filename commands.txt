@@ -1,0 +1,7 @@
+LINUX COMMANDS
+
+1. whoami
+Purpose: Displays the current logged-in username.
+
+2. ip addr
+Purpose: Displays network interface and IP address information.
