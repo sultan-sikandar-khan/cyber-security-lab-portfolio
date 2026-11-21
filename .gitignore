@@ -1,0 +1,5 @@
+*.env
+*.key
+secrets.txt
+*.pcap
+__pycache__/
